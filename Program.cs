@@ -23,11 +23,9 @@ while (opcao != 0)
     {
         case 1:
         {
-            // Entrada
             Console.Write("Digite o nome para entrar na fila: ");
             string nome = Console.ReadLine();
 
-            // Validação
             if (string.IsNullOrWhiteSpace(nome) || nome.Trim().Length < 3)
             {
                 Console.WriteLine("Nome inválido. Não pode ser vazio e deve ter pelo menos 3 caracteres.");
