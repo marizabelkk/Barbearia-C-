@@ -1,0 +1,14 @@
+C:\Users\bbmim\Documents\C#\Reforço\obj\Debug\net10.0\Reforço.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbmim\Documents\C#\Reforço\obj\Debug\net10.0\Reforço.AssemblyInfoInputs.cache
+C:\Users\bbmim\Documents\C#\Reforço\obj\Debug\net10.0\Reforço.AssemblyInfo.cs
+C:\Users\bbmim\Documents\C#\Reforço\obj\Debug\net10.0\Reforço.csproj.CoreCompileInputs.cache
+C:\Users\bbmim\Documents\C#\Reforço\bin\Debug\net10.0\Reforço.exe
+C:\Users\bbmim\Documents\C#\Reforço\bin\Debug\net10.0\Reforço.deps.json
+C:\Users\bbmim\Documents\C#\Reforço\bin\Debug\net10.0\Reforço.runtimeconfig.json
+C:\Users\bbmim\Documents\C#\Reforço\bin\Debug\net10.0\Reforço.dll
+C:\Users\bbmim\Documents\C#\Reforço\bin\Debug\net10.0\Reforço.pdb
+C:\Users\bbmim\Documents\C#\Reforço\obj\Debug\net10.0\Reforço.dll
+C:\Users\bbmim\Documents\C#\Reforço\obj\Debug\net10.0\refint\Reforço.dll
+C:\Users\bbmim\Documents\C#\Reforço\obj\Debug\net10.0\Reforço.pdb
+C:\Users\bbmim\Documents\C#\Reforço\obj\Debug\net10.0\Reforço.genruntimeconfig.cache
+C:\Users\bbmim\Documents\C#\Reforço\obj\Debug\net10.0\ref\Reforço.dll
